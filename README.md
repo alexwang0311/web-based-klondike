@@ -1,1 +1,1 @@
-# web_based_klondike
+# Web-based Klondike
